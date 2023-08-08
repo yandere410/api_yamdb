@@ -5,7 +5,7 @@
 
 <h2 align="center"> Установка и настройка </h2>
 <p><h3>Клонируйте репозиторий проекта с GitHub:</h3></p>
-<div><h3>https://github.com/OlegMusatov3000/api_yamdb</h3></div>
+<div><h3>(https://github.com/yandere410/api_yamdb)</h3></div>
 <p>Перейдите в каталог проекта:</p>
 
 cd /api_yamdb
